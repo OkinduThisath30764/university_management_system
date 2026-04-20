@@ -1,0 +1,17 @@
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Infrastructure.deps.json
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Infrastructure.runtimeconfig.json
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Infrastructure.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Infrastructure.pdb
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Core.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\bin\Debug\net10.0\BlindMatchPAS.Core.pdb
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.csproj.AssemblyReference.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.AssemblyInfoInputs.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.AssemblyInfo.cs
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMat.CDE404DE.Up2Date
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\refint\BlindMatchPAS.Infrastructure.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.pdb
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\BlindMatchPAS.Infrastructure.genruntimeconfig.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Infrastructure\obj\Debug\net10.0\ref\BlindMatchPAS.Infrastructure.dll

@@ -1,4 +1,4 @@
-﻿namespace BlindMatchPAS.Core;
+﻿namespace BlindMatchPAS.Infrastructure;
 
 public class Class1
 {
