@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BlindMatchPAS.Core/BlindMatchPAS.Core.csproj" />
+    <Project Path="src/BlindMatchPAS.Infrastructure/BlindMatchPAS.Infrastructure.csproj" />
+    <Project Path="src/BlindMatchPAS.Web/BlindMatchPAS.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BlindMatchPAS.IntegrationTests/BlindMatchPAS.IntegrationTests.csproj" />
+    <Project Path="tests/BlindMatchPAS.UnitTests/BlindMatchPAS.UnitTests.csproj" />
+  </Folder>
+</Solution>
