@@ -1,0 +1,12 @@
+E:\outsource\University Management System\src\BlindMatchPAS.Core\bin\Debug\net10.0\BlindMatchPAS.Core.deps.json
+E:\outsource\University Management System\src\BlindMatchPAS.Core\bin\Debug\net10.0\BlindMatchPAS.Core.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Core\bin\Debug\net10.0\BlindMatchPAS.Core.pdb
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.csproj.AssemblyReference.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.AssemblyInfoInputs.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.AssemblyInfo.cs
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.csproj.CoreCompileInputs.cache
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\refint\BlindMatchPAS.Core.dll
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\BlindMatchPAS.Core.pdb
+E:\outsource\University Management System\src\BlindMatchPAS.Core\obj\Debug\net10.0\ref\BlindMatchPAS.Core.dll
